@@ -1,0 +1,20 @@
+{
+  "name": "ant-colony",
+  "version": "0.0.0",
+
+  "scripts": {
+    "build:dev": "webpack --config webpack.config.js -d",
+    "watch:dev": "build:dev --watch"
+  },
+
+  "dependencies": {},
+
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-typescript": "^7.3.3",
+    "babel-loader": "^8.0.6",
+    "typescript": "^3.5.1",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
