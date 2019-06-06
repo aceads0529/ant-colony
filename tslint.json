@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "indent": [true, "spaces", 2],
+    "quotemark": [true, "single"],
+    "no-parameter-properties": true
+  }
+}

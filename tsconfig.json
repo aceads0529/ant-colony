@@ -6,7 +6,9 @@
     "strict": true,
     "outDir": "./dist",
     "sourceRoot": "./src",
-    "noImplicitAny": true
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "experimentalDecorators": true
   },
   "exclude": [
     "node_modules"
